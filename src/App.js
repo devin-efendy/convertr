@@ -76,7 +76,7 @@ class App extends React.Component {
         {/* Title Bar */}
         <Container textAlign="center" style={{ marginBottom: '10px' }}>
           <h1 style={{ color: 'black', marginBottom: '10px' }}>
-            Welcome to convertr.io
+            Welcome to convertr
           </h1>
           <a
             href="https://github.com/devinsbt/Convertr"
