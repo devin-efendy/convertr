@@ -2,6 +2,8 @@
 
 Convertr is a web application that will help with unit conversion This project is created using React with [Semantic UI](https://semantic-ui.com) and [convert-units](https://github.com/ben-ng/convert-units)
 
+Demo: https://devin-efendy.github.io/convertr/
+
 ## **How to run locally**
 
 Make sure that you have `npm` or `yarn` installed
